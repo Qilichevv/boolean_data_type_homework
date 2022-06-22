@@ -7,5 +7,6 @@ def main(a):
     """
     # Write your code here
     from math import sqrt
-    sqrt=a
-    return a>0 
+    b=sqrt(a)
+    b=b//1
+    return b*b==a 
